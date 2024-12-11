@@ -5,7 +5,7 @@ This is my home page! My name is My Tran and I am a student at Cal State Fullert
 
 ## Computer Science Projects
 
-My Github page is https://myyt883.github.io
+My Github page is http://github.com/Myyt883
 
 I am a computer science major at CSUF and I plan on graduating in 2028
 
